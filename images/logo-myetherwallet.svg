@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 150px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: "lazer84";
+      }
+    </style>
+  </defs>
+  <text transform="translate(7 165) scale(1.27)" class="cls-1"><tspan class="cls-2">Atheios</tspan></text>
+</svg>
